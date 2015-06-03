@@ -1,2 +1,4 @@
-# webrtcfiletransfer
-WebRTC with Audio, Video, Chat and File Transfer 
+AngularJS WebRTC
+================
+
+Demo project for my [blog post](http://blog.mgechev.com/2014/12/26/multi-user-video-conference-webrtc-angularjs-yeoman/).
